@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Ethan 's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,8 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# What I love about CS-193
-## Header 2
+# Ethan 's First CS193 Homework
+## What I love about CS193
 ### Header 3
 
 - The professors are cool
